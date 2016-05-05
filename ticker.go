@@ -25,7 +25,7 @@ func main() {
 			os.Exit(1)
 		}
 		fmt.Println(string(output))
-		time.Sleep(2 * time.Second)
+		time.Sleep(1 * time.Second)
 
 	}
 }
